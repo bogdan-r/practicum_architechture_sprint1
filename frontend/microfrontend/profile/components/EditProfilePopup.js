@@ -1,5 +1,5 @@
 import React from 'react';
-import PopupWithForm from '../../../shared/components/PopupWithForm';
+import PopupWithForm from '../../../src/components/PopupWithForm';
 import { CurrentUserContext } from '../../../src/contexts/CurrentUserContext';
 
 function EditProfilePopup({ isOpen, onUpdateUser, onClose }) {

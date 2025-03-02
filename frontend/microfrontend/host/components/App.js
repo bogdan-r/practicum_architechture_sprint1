@@ -3,7 +3,7 @@ import { Route, useHistory, Switch } from "react-router-dom";
 import Header from "./Header.js";
 import Main from "./Main.js";
 import Footer from "./Footer.js";
-import PopupWithForm from "../../../shared/components/PopupWithForm.js";
+import PopupWithForm from "../../../src/components/PopupWithForm.js";
 import ImagePopup from "./ImagePopup.js";
 import api from "../../../src/utils/api.js";
 import { CurrentUserContext } from "../../../src/contexts/CurrentUserContext.js";
