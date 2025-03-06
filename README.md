@@ -23,3 +23,5 @@
 Для функционала `closeAllPopups`, можно изпользовать механизм с шиной сообщений.
 
 # Задание 2
+
+https://drive.google.com/file/d/1xUek8sNLbbiTjVZHn3HOCpC5f1refQ2H/view?usp=sharing
